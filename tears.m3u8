@@ -20,4 +20,4 @@ tears-of-steel-audio_eng=64008.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=136000,CODECS="mp4a.40.2"
 tears-of-steel-audio_eng=128002.m3u8
 
-#EXT-X-IMAGE-STREAM-INF:BANDWIDTH=16460,RESOLUTION=256x144,CODECS="jpeg",URI="5x2_256x144/256x144-5x2.m3u8"
+#EXT-X-IMAGE-STREAM-INF:BANDWIDTH=16460,RESOLUTION=256x144,CODECS="jpeg",URI="https://raw.githubusercontent.com/Luis-Velope/crash-course/master/256x144-5x2.m3u8"
